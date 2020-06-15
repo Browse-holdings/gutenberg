@@ -2,8 +2,7 @@
 	"name": "core/buttons",
 	"category": "design",
 	"supports": {
-		"align": true,
-		"alignWide": false,
+		"align": [ "wide", "full" ],
 		"lightBlockWrapper": true
 	}
 }
